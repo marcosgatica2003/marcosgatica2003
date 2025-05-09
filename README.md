@@ -31,7 +31,7 @@
 - **Shell:** <p align="left"> <img src="https://img.shields.io/badge/Zsh-89E051?style=for-the-badge&logo=gnu-bash&logoColor=black" /> </p>
 - **Hardware:** <p align="left"> <img src="https://img.shields.io/badge/Dell_G15_5515-007DB8?style=for-the-badge&logo=dell&logoColor=white" /> <img src="https://img.shields.io/badge/Raspberry_Pi_4B+-C51A4A?style=for-the-adge&logo=raspberry-i" />   <img src="https://img.shields.io/badge/Arduino_Mega-00979D?style=for-the-badge&logo=arduino&logoColor=white" />  <img src="https://img.shields.io/badge/Arduino_Uno_R3-00979D?style=for-the-adge&logo=arduino&logoColor=white" /> </p>
 
-<h3 align="left">Voluntario en:</h3>
+<h3 align="left">Becario en:</h3>
 
 <table>
   <tr>
