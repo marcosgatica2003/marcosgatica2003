@@ -70,6 +70,6 @@
 |------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|---------------------|
 | [gaticonTools](https://github.com/marcosgatica2003/gaticonTools/tree/devel)                    | A collection of personal tools including a resistance calculator, unit converter, and more.   | Python, Bash        |
 | [borescope-pi-gen](https://gitlab.com/boroscope/borescope-pi-gen)                              | Tool for generating custom Raspberry Pi OS images for borescope setups.                       | Shell               |
-| [dotfiles](https://github.com/marcosgatica2003/dotfiles)                                       | Personal config files for i3wm, Vim, Zsh and other tools.                                     | Shell               |
+| [dotfiles](https://github.com/marcosgatica2003/utilidadesYSistema)                                       | Personal config files for i3wm, Vim, Zsh and other tools.                                     | Shell               |
 
 ---
